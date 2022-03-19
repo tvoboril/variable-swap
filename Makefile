@@ -1,3 +1,4 @@
+
 IMAGE ?= tomvoboril/variable-swap
 
 build:
